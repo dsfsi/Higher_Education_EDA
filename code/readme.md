@@ -5,3 +5,5 @@ To view the tutorial, click on the .ipnyb file above or [simply click here](http
 In this notebook - there is an exploratory data analysis specific to higher education data. In this tutorial, dataset 1 was used. To find out more about the dataset, click [here](https://github.com/dsfsi/Higher_Education_EDA/tree/main/opendata)
 
 Once you are done with the tutorial, please have a .csv file ready so that you can access the [exploratory data analysis app](https://share.streamlit.io/herkulaascombrink/eda_for_education/main/eda_for_education.py)
+
+To navigate back to the main page, simply [click here](https://github.com/dsfsi/Higher_Education_EDA/tree/main)
