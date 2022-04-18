@@ -1,6 +1,6 @@
 # Open source data used in this repository
 
-These datasets will be used in the demonstration and for workshop purposes. To learn more about this, please view the (tutorial here)[https://github.com/dsfsi/Higher_Education_EDA/tree/main/opendata]
+These datasets will be used in the demonstration and for workshop purposes. To learn more about this, please view the [tutorial here](https://github.com/dsfsi/Higher_Education_EDA/tree/main/code)
 
 You will find five datasets used in this repository, numbered from 1 - 5.
 
