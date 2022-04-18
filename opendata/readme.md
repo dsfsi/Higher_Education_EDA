@@ -17,3 +17,7 @@ p.105537
 student performance
 - 5 Kuzilek, J., Hlosta, M. and Zdrahal, Z., 2017. Open university learning analytics
 dataset. Scientific data, 4(1), pp.1-8
+
+Once you are done with the tutorial, please have a .csv file ready so that you can access the [exploratory data analysis app](https://share.streamlit.io/herkulaascombrink/eda_for_education/main/eda_for_education.py)
+
+To navigate back to the main page, simply [click here](https://github.com/dsfsi/Higher_Education_EDA/tree/main)
