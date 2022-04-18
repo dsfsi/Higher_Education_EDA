@@ -1,5 +1,7 @@
 # Open source data used in this repository
 
+<img src="https://github.com/dsfsi/Higher_Education_EDA/blob/main/images/Image%201.png" width="20%" height="20%">
+
 These datasets will be used in the demonstration and for workshop purposes. To learn more about this, please view the [tutorial here](https://github.com/dsfsi/Higher_Education_EDA/tree/main/code)
 
 You will find five datasets used in this repository, numbered from 1 - 5.
@@ -23,3 +25,5 @@ Once you have viewed this content, you are encouraged to view the tutorial. The 
 Once you are done with the tutorial, please have a .csv file ready so that you can access the [exploratory data analysis app](https://share.streamlit.io/herkulaascombrink/eda_for_education/main/eda_for_education.py)
 
 To navigate back to the main page, simply [click here](https://github.com/dsfsi/Higher_Education_EDA/tree/main)
+
+<img src="https://github.com/dsfsi/Higher_Education_EDA/blob/main/images/Image%201.png" width="20%" height="20%">
