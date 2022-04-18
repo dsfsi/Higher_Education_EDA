@@ -7,8 +7,7 @@ Each of them come from a different source, in order of numbering:
 framework for a smart campus: a case of Covenant University. In 2017 International
 Conference on Computational Science and Computational Intelligence (CSCI) (pp.
 1371-1376). IEEE
-- 2 Ghareeb, S., Hussain, A., Khan, W., Al-Jumeily, D., Baker, T. and Al-Jumeily, R.,
-2021. Dataset of student level prediction in UAE. Data in Brief, 35, p.106908
+- 2 Ghareeb, S., Hussain, A., Khan, W., Al-Jumeily, D., Baker, T. and Al-Jumeily, R., 2021. Dataset of student level prediction in UAE. Data in Brief, 35, p.106908
 - 3 Delahoz-Dominguez, E., Zuluaga, R. and Fontalvo-Herrera, T., 2020. Dataset
 of academic performance evolution for engineering students. Data in brief, 30,
 p.105537
