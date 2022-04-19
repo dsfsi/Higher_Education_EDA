@@ -1,6 +1,6 @@
 # Open source data used in this repository
 
- <img src="https://github.com/dsfsi/Higher_Education_EDA/blob/main/images/Image%202.png" width="40%" height="40%">
+ <img src="https://github.com/dsfsi/Higher_Education_EDA/blob/main/images/Image%203.png" width="40%" height="40%">
  
 These datasets will be used in the demonstration and for workshop purposes. To learn more about this, please view the [tutorial here](https://github.com/dsfsi/Higher_Education_EDA/tree/main/code)
 
