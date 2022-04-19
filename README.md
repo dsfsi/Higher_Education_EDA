@@ -1,6 +1,6 @@
 # Higher_Education_EDA
 
- <img src="https://github.com/dsfsi/Higher_Education_EDA/blob/main/images/Image%202.png" width="40%" height="40%">
+ <img src="https://github.com/dsfsi/Higher_Education_EDA/blob/main/images/Image%203.png" width="40%" height="40%">
  
 # [DSFSI](https://dsfsi.github.io/) & [RAIL](https://www.raillab.org/)
 
