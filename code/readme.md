@@ -1,6 +1,6 @@
 # EDA Tutorial
 
- <img src="https://github.com/dsfsi/Higher_Education_EDA/blob/main/images/Image%202.png" width="40%" height="40%">
+ <img src="https://github.com/dsfsi/Higher_Education_EDA/blob/main/images/Image%203.png" width="40%" height="40%">
  
 To view tutorial 1, click on the .ipynb file above or [simply click here](https://github.com/dsfsi/Higher_Education_EDA/blob/main/code/Exploratory%20Data%20Analysis%20for%20Education.ipynb)
 
