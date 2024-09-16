@@ -18,4 +18,4 @@ Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms
    **Currently the bugs are being fixed**
  -
  -
- # Within this App is the popular and known architecture known as SweetViz and you can use this app to produce a Sweetviz report. To access the exploratory data analysis app for higher education, please [use the exploratory data analysis app # link by clicking here](https://share.streamlit.io/herkulaascombrink/eda_for_education/main/eda_for_education.py)
+ # Within this App is the popular and known architecture known as SweetViz and you can use this app to produce a Sweetviz report. To access the exploratory data analysis app for higher education, please note that the bugs are being fixed [ # link by clicking here](https://share.streamlit.io/herkulaascombrink/eda_for_education/main/eda_for_education.py)
