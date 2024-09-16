@@ -16,6 +16,5 @@ Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms
  - The **data** used within this demonstration can be found within the "opendata" folder. [Click here to navigate to the data](https://github.com/dsfsi/Higher_Education_EDA/tree/main/opendata)
  - An **exploratory data analysis app** was created based on this work, so that other researchers may use this.
    **Currently the bugs are being fixed**
- -
- -
+
  # Within this App is the popular and known architecture known as SweetViz and you can use this app to produce a Sweetviz report. To access the exploratory data analysis app for higher education, please note that the bugs are being fixed [ # link by clicking here](https://share.streamlit.io/herkulaascombrink/eda_for_education/main/eda_for_education.py)
